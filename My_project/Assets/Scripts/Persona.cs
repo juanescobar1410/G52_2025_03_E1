@@ -1,15 +1,15 @@
 using UnityEngine;
 using System;
 
-namespace packagesPersona
+namespace packagePersona
 {
     [Serializable]
     public class Persona
     {
 
-        private string nameP;
-        private string amilP;
-        private string dirP;
+        public string nameP;
+        public string amilP;
+        public string dirP;
 
         public Persona()
         {
