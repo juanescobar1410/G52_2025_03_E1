@@ -6,7 +6,7 @@ namespace packagePunto2D
 {
     [Serializable]
 
-    public class Punto2D : MonoBehaviour
+    public class Punto2D 
     {
 
         public double x;
